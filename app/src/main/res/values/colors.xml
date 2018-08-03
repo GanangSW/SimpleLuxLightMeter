@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">@color/yellow500</color>
+  <color name="colorPrimaryDark">@color/yellow700</color>
+  <color name="colorAccent">@color/yellow700</color>
+
+  <color name="yellow500">#ffeb3b</color>
+  <color name="yellow700">#fbc02d</color>
+  <color name="grey200">#eeeeee</color>
+</resources>
